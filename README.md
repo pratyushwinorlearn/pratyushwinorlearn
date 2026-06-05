@@ -1,4 +1,4 @@
-#  Hi, This is Shekhar Pratyush
+#  Hi, this is Shekhar Pratyush
 
 AI/ML Engineer | AWS Certified AI Practitioner | B.Tech CSE
 
