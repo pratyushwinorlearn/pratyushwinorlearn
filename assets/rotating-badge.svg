@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="150" height="150">
   <style>
-    /* This defines the continuous 3D spin */
     @keyframes spin {
       0% { transform: rotateY(0deg); }
       100% { transform: rotateY(360deg); }
     }
-    
-    /* This applies the spin to our image container */
     .badge-container {
       transform-origin: center;
       animation: spin 5s linear infinite; 
@@ -14,6 +11,6 @@
   </style>
   
   <g class="badge-container">
-    <image href="https://github.com/pratyushwinorlearn/pratyushwinorlearn/blob/main/assets/aws-badge-static.png?raw=true" x="0" y="0" height="200" width="200"/>
+    <image href="https://raw.githubusercontent.com/pratyushwinorlearn/pratyushwinorlearn/main/assets/aws-badge-static.png" x="0" y="0" height="200" width="200"/>
   </g>
 </svg>
