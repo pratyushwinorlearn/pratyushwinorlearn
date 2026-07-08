@@ -10,10 +10,8 @@
 </div>
 <br clear="all" />
 
-<!-- Adds a nice clean space before the badge -->
-<br/><br/>
-
 <!-- Floating Animated Badge Section -->
 <div align="center">
+  <h2>AWS Badges</h2>
   <img src="./assets/rotating-badge.svg" width="18%" alt="AWS Certified AI Practitioner" />
 </div>
