@@ -40,15 +40,38 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**Infrastructure & Compute:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-EE4C2C?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+### ☁️ Cloud & MLOps
 
-**Managed AI Services:**
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-00A4A6?style=for-the-badge&logo=amazonaws&logoColor=white)
+<table>
+  <tr>
+    <td width="75%" valign="top">
+      <p><strong>Infrastructure & Compute:</strong></p>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_EC2-EE4C2C?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+      <br/><br/>
+      <p><strong>Managed AI Services:</strong></p>
+      <img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_Bedrock-00A4A6?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br/><br/>
+      <p><strong>Databases & Storage:</strong></p>
+      <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+      <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br/><br/>
+      <p><strong>Deployment & Hosting:</strong></p>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/rotating-badge.svg" width="130" alt="AWS AI Practitioner Certified" />
+      <br/>
+      <sub><strong>Certified Practitioner</strong></sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
