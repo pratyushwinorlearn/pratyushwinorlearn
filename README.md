@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=𝕳𝖎+𝖙𝖍𝖊𝖗𝖊%2C+𝕴'𝖒+𝕾𝖍𝖊𝖐𝖍𝖆𝖗+𝕻𝖗𝖆𝖙𝖞𝖚𝖘𝖍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Shekhar+Pratyush" alt="Typing SVG" />
 </a>
 
-<h3 align="center">𝕬𝕴/𝕸𝕷 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 | 𝕬𝖂𝕾 𝕮𝖊𝖗𝖙𝖎𝖋𝖎𝖊𝖉 𝕬𝕴 𝕻𝖗𝖆𝖈𝖙𝖎𝖙𝖎𝖔𝖓𝖊𝖗 | 𝕭.𝕿𝖊𝖈𝖍 𝕮𝕾𝕰</h3>
+<h3 align="center">AI/ML Engineer | AWS Certified AI Practitioner | B.Tech CSE</h3>
 
 <table>
   <tr>
@@ -16,13 +16,13 @@
     <td width="35%" align="center" valign="middle">
       <img src="./assets/rotating-badge.svg" width="120" alt="AWS AI Practitioner Certified" />
       <br/>
-      <sub><strong>𝙰𝚆𝚂 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙰𝙸 𝙿𝚛𝚊𝚌𝚝𝚒𝚝𝚒𝚘𝚗𝚎𝚛</strong></sub>
+      <sub><strong>AWS Certified AI Practitioner</strong></sub>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <strong>𝕬𝕴 & 𝕸𝖆𝖈𝖍𝖎𝖓𝖊 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌</strong>
+      <strong>📊 AI & Machine Learning</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-2F3542?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-402516?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/SciPy-163540?style=for-the-badge&logo=scipy&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <strong>𝕯𝖊𝖊𝖕 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 & 𝕬𝕴 𝕬𝖗𝖈𝖍𝖎𝖙𝖊𝖈𝖙𝖚𝖗𝖊𝖘</strong>
+      <strong>🧠 Deep Learning & AI Architectures</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/PyTorch-4A1A1A?style=for-the-badge&logo=PyTorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Keras-380C0C?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -43,23 +43,23 @@
 
   <tr>
     <td width="50%" valign="top">
-      <strong>𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 & 𝕴𝖓𝖙𝖊𝖗𝖋𝖆𝖈𝖊 𝕾𝖞𝖘𝖙𝖊𝖒𝖘</strong>
+      <strong>💻 Full-Stack & Interface Systems</strong>
       <br/><br/>
-      <p><small>𝕱𝖗𝖔𝖓𝖙𝖊𝖓𝖉 & 𝕴𝖓𝖙𝖊𝖗𝖆𝖈𝖙𝖎𝖛𝖊 𝕯𝖊𝖘𝖎𝖌𝖓:</small></p>
+      <p><small>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 & 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝙳𝚎𝚜𝚒𝚐𝚗:</small></p>
       <img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-19324D?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Framer_Motion-2F194D?style=for-the-badge&logo=framer&logoColor=white" />
       <br/><br/>
-      <p><small>𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕮𝖔𝖗𝖊 & 𝕷𝖔𝖌𝖎𝖈:</small></p>
+      <p><small>𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙲𝚘𝚛𝚎 & 𝙻𝚘𝚐𝚒𝚌:</small></p>
       <img src="https://img.shields.io/badge/C%2B%2B-15293B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-402A12?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-1A331A?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-2E3033?style=for-the-badge&logo=express&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <strong>𝕮𝖑𝖔𝖚𝖉, 𝕸𝕷𝕺𝖕𝖘 & 𝕯𝖆𝖙𝖆 𝕬𝖗𝖈𝖍𝖎𝖙𝖊𝖈𝖙𝖚𝖗𝖊</strong>
+      <strong>☁️ Cloud, MLOps & Data Architecture</strong>
       <br/><br/>
-      <p><small>𝕮𝖔𝖒𝖕𝖚𝖙𝖊 & 𝕸𝖆𝖓𝖆𝖌𝖊𝖉 𝕬𝕴:</small></p>
+      <p><small>𝙲𝚘𝚖𝚙𝚞𝚝𝚎 & 𝙼𝚊𝚗𝚊𝚐𝚎𝚍 𝙰𝙸:</small></p>
       <img src="https://img.shields.io/badge/AWS-3D2611?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_EC2-472213?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_S3-203816?style=for-the-badge&logo=amazon-s3&logoColor=white" />
@@ -67,7 +67,7 @@
       <img src="https://img.shields.io/badge/Amazon_SageMaker-16263B?style=for-the-badge&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_Bedrock-113838?style=for-the-badge&logo=amazonaws&logoColor=white" />
       <br/><br/>
-      <p><small>𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊𝖘 & 𝕯𝖊𝖕𝖑𝖔𝖞𝖒𝖊𝖓𝖙 𝕻𝖎𝖕𝖊𝖑𝖎𝖓𝖊𝖘:</small></p>
+      <p><small>𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜 & 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜:</small></p>
       <img src="https://img.shields.io/badge/Amazon_DynamoDB-1A2254?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_RDS-21305E?style=for-the-badge&logo=amazonrds&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-203B20?style=for-the-badge&logo=mongodb&logoColor=white" />
