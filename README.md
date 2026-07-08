@@ -1,4 +1,4 @@
-# Hi there, I'm Shekhar Pratyush 👋
+# Hi there, I'm Shekhar Pratyush
 
 <h3 align="center">AI/ML Engineer | AWS Certified AI Practitioner | B.Tech CSE</h3>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 **Artificial Intelligence & Machine Learning:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Architectures & Projects
+## Featured Architectures & Projects
 
 * **AI Interviewer Bot (`persona-ai`):** An end-to-end evaluation platform integrating a Node.js/Express backend with Groq AI for instant assessment and Resend API for secure OTP user authentication. 
 * **SIH Monastery System:** Managed robust backend environment deployment and architecture for this large-scale build.
@@ -40,7 +40,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyushwinorlearn&show_icons=true&theme=tokyonight" alt="Shekhar's GitHub Stats" />
