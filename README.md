@@ -40,7 +40,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### ☁️ Cloud & MLOps
+### Cloud & MLOps
 
 <table>
   <tr>
@@ -68,7 +68,7 @@
     <td width="25%" align="center" valign="middle">
       <img src="./assets/rotating-badge.svg" width="130" alt="AWS AI Practitioner Certified" />
       <br/>
-      <sub><strong>Certified Practitioner</strong></sub>
+      <sub><strong>AWS Certified AI Practitioner</strong></sub>
     </td>
   </tr>
 </table>
