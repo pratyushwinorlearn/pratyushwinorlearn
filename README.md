@@ -22,7 +22,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <strong>📊 AI & Machine Learning</strong>
+      <strong>📊 𝔸𝕀 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-2F3542?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-402516?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/SciPy-163540?style=for-the-badge&logo=scipy&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <strong>🧠 Deep Learning & AI Architectures</strong>
+      <strong>🧠 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝔸𝕀 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥𝕦𝕣𝕖𝕤</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/PyTorch-4A1A1A?style=for-the-badge&logo=PyTorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Keras-380C0C?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -43,7 +43,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <strong>💻 Full-Stack & Interface Systems</strong>
+      <strong>💻 𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 & 𝕀𝕟𝕥𝕖𝕣𝕗𝕒𝕔𝕖 𝕊𝕪𝕤𝕥𝕖𝕞𝕤</strong>
       <br/><br/>
       <p><small>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 & 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝙳𝚎𝚜𝚒𝚐𝚗:</small></p>
       <img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/Express.js-2E3033?style=for-the-badge&logo=express&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <strong>☁️ Cloud, MLOps & Data Architecture</strong>
+      <strong>☁️ ℂ𝕝𝕠𝕦𝕕, 𝕄𝕃𝕆𝕡𝕤 & 𝔻𝕒𝕥𝕒 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥𝕦𝕣𝕖</strong>
       <br/><br/>
       <p><small>𝙲𝚘𝚖𝚙𝚞𝚝𝚎 & 𝙼𝚊𝚗𝚊𝚐𝚎𝚍 𝙰𝙸:</small></p>
       <img src="https://img.shields.io/badge/AWS-3D2611?style=for-the-badge&logo=amazon-aws&logoColor=white" />
