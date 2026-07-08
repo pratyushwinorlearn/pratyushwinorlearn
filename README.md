@@ -33,13 +33,6 @@
 
 ---
 
-## Featured Architectures & Projects
-
-* **AI Interviewer Bot (`persona-ai`):** An end-to-end evaluation platform integrating a Node.js/Express backend with Groq AI for instant assessment and Resend API for secure OTP user authentication. 
-* **SIH Monastery System:** Managed robust backend environment deployment and architecture for this large-scale build.
-* **Interactive Scrollytelling Interfaces:** Designing highly performant, scroll-linked canvas animations utilizing HTML5, Next.js, and Framer Motion for immersive digital experiences.
-
----
 
 ## GitHub Activity
 
