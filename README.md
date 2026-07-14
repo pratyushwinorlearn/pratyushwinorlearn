@@ -1,7 +1,7 @@
 <div align="left">
   
   <!-- The Perfect Masonry Grid -->
-  <img src="/assets/bio-box.svg?v=1" width="43%" align="left" alt="Shekhar Pratyush Bio" />
+  <img src="/assets/bio-box.svg?v=2" width="43%" align="left" alt="Shekhar Pratyush Bio" />
   
   <a href="[www.linkedin.com/in/shekhar-pratyush-445362327](https://www.linkedin.com/in/shekhar-pratyush-445362327)" target="_blank">
     <img src="./assets/right-grid.svg" width="54%" alt="Tech Stack and Details" />
