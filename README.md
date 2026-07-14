@@ -4,7 +4,7 @@
   <img src="/assets/bio-box.svg?v=1" width="43%" align="left" alt="Shekhar Pratyush Bio" />
   
   <a href="[www.linkedin.com/in/shekhar-pratyush-445362327](https://www.linkedin.com/in/shekhar-pratyush-445362327)" target="_blank">
-    <img src="./assets/right-grid.svg" width="54%" alt="Tech Stack and Details" />
+    <img src="./assets/right-grid-updated.svg" width="54%" alt="Tech Stack and Details" />
   </a>
 
 </div>
