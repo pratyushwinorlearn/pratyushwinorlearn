@@ -17,4 +17,5 @@
   <img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" />
   <img src="./assets/object-storage.svg" width="18%" alt="Objet Storage Knowledge Badge" />
   <img src="./assets/Q-Developer.svg" width="18%" alt="Q Developer Knowledge Badge" />
+  <img src="./assets/AI-Basics.svg" width="18%" alt="AI Basics Knowledge Badge" />
 </div>
