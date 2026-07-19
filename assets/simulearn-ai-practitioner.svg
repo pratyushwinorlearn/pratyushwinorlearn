@@ -6,7 +6,7 @@
     }
     .badge-container {
       transform-origin: center;
-      animation: spin 5s linear infinite; 
+      animation: spin 3s linear infinite; 
     }
   </style>
   
