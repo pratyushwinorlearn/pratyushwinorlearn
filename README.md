@@ -2,7 +2,7 @@
 
   <img src="./assets/bio-box-latest.svg?v=1" width="42.80%" valign="top" alt="Shekhar Pratyush Bio" />
   
-  <a href="https://www.google.com/search?q=fifa+world+cup+2026&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAjGCcY6gLSAQk1MDQxODEajBqN6gCCLACA&sourceid=chrome&ie=UTF-8" target="_blank">
+  <a href="https://www.instagram.com/piyushraj.99/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="./assets/right-grid-latest.svg" width="55%" valign="top" alt="Tech Stack and Details" />
   </a>
 
