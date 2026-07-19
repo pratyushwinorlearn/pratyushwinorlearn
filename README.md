@@ -14,4 +14,5 @@
 <div align="center">
   <h2>AWS Badges</h2>
   <img src="./assets/rotating-badge.svg" width="18%" alt="AWS Certified AI Practitioner" />
+  <img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" />
 </div>
