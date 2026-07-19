@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="150" height="150">
   <style>
     @keyframes spin {
-      0% { transform: rotateY(0deg); }
-      100% { transform: rotateY(360deg); }
+      0% { transform: rotateY(-30deg); }
+      100% { transform: rotateY(30deg); }
     }
     .badge-container {
       transform-origin: center;
