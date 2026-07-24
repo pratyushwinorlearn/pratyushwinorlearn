@@ -13,6 +13,7 @@
 <div align="center">
   <h2>AWS Badges</h2>
   <a href="https://www.credly.com/earner/earned/badge/6e4619bd-0350-475e-a2b6-4e824075aae6" target="_blank"><img src="./assets/rotating-badge.svg" width="18%" alt="AWS Certified AI Practitioner" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/c4661ac0-07a9-47ad-b162-7c35b17e0f3c" target="_blank"><img src="./assets/Generative-AI-Practitioner-Trained-CloudQuest.svg" width="18%" alt="Generative AI Practtioner Trained CloudQuest" /></a>
   <a href="https://www.credly.com/earner/earned/badge/a5def58a-560d-46a7-94de-a357904574ed" target="_blank"><img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/b23238e5-2191-4646-beb5-6458fe941243" target="_blank"><img src="./assets/Machine-Learning-Trained.svg" width="18%" alt="Simulearn Machine Learning Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/bb89cf9b-dec6-4932-81c6-9e525675d856" target="_blank"><img src="./assets/AI-Architect-Trained.svg" width="18%" alt="AI Architect Trained" /></a>
