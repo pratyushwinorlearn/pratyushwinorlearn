@@ -2,7 +2,7 @@
 
   <img src="./assets/bio-box-latest.svg?v=1" width="42.80%" valign="top" alt="Shekhar Pratyush Bio" />
   
-  <a href="www.linkedin.com/in/shekhar-pratyush-445362327" target="_blank">
+  <a href="https://www.linkedin.com/in/shekhar-pratyush-445362327" target="_blank">
     <img src="./assets/right-grid-latest.svg" width="55%" valign="top" alt="Tech Stack and Details" />
   </a>
 
