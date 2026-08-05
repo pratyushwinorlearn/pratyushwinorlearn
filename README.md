@@ -15,6 +15,7 @@
   <a href="https://www.credly.com/earner/earned/badge/6e4619bd-0350-475e-a2b6-4e824075aae6" target="_blank"><img src="./assets/rotating-badge.svg" width="18%" alt="AWS Certified AI Practitioner" /></a>
   <a href="https://www.credly.com/earner/earned/badge/a294af11-aec9-4f6a-947c-b557cc2237bf" target="_blank"><img src="./assets/Agentic-AI-Microcredential.svg" width="18%" alt="Agentic AI Microcredential Badge" /></a>
   <a href="https://www.credly.com/earner/earned/badge/780cf463-fed0-464d-9fa7-4ef31d87eebf" target="_blank"><img src="./assets/MLOPS-Microcredential.svg" width="18%" alt="MLOPS Microcredential Badge" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/94dfc518-a2ff-4e3a-8098-4498b0e89cba" target="_blank"><img src="./assets/Generative-AI-Architect-CloudQuest.svg" width="18%" alt="Generative AI Architect CloudQuest" /></a>
   <a href="https://www.credly.com/earner/earned/badge/c4661ac0-07a9-47ad-b162-7c35b17e0f3c" target="_blank"><img src="./assets/Generative-AI-Practitioner-Trained-CloudQuest.svg" width="18%" alt="Generative AI Practtioner Trained CloudQuest" /></a>
   <a href="https://www.credly.com/earner/earned/badge/a5def58a-560d-46a7-94de-a357904574ed" target="_blank"><img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/b23238e5-2191-4646-beb5-6458fe941243" target="_blank"><img src="./assets/Machine-Learning-Trained.svg" width="18%" alt="Simulearn Machine Learning Trained" /></a>
