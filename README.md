@@ -17,9 +17,9 @@
   <a href="https://www.credly.com/earner/earned/badge/780cf463-fed0-464d-9fa7-4ef31d87eebf" target="_blank"><img src="./assets/MLOPS-Microcredential.svg" width="18%" alt="MLOPS Microcredential Badge" /></a>
   <a href="https://www.credly.com/earner/earned/badge/94dfc518-a2ff-4e3a-8098-4498b0e89cba" target="_blank"><img src="./assets/Generative-AI-Architect-CloudQuest.svg" width="18%" alt="Generative AI Architect CloudQuest" /></a>
   <a href="https://www.credly.com/earner/earned/badge/c4661ac0-07a9-47ad-b162-7c35b17e0f3c" target="_blank"><img src="./assets/Generative-AI-Practitioner-Trained-CloudQuest.svg" width="18%" alt="Generative AI Practtioner Trained CloudQuest" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/a5def58a-560d-46a7-94de-a357904574ed" target="_blank"><img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/b23238e5-2191-4646-beb5-6458fe941243" target="_blank"><img src="./assets/Machine-Learning-Trained.svg" width="18%" alt="Simulearn Machine Learning Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/bb89cf9b-dec6-4932-81c6-9e525675d856" target="_blank"><img src="./assets/AI-Architect-Trained.svg" width="18%" alt="AI Architect Trained" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/a5def58a-560d-46a7-94de-a357904574ed" target="_blank"><img src="./assets/simulearn-ai-practitioner.svg" width="18%" alt="Simulearn AI Practitioner Trained" /></a>
   <a href="https://www.credly.com/earner/earned/badge/ecac8b1a-c904-48a1-82d5-8562cca08b88" target="_blank"><img src="./assets/Well-Architected-Proficient.svg" width="18%" alt="Well Architected Foundations Proficicent Badge" /></a>
   <a href="https://www.credly.com/earner/earned/badge/a7165430-8344-4bb6-9f68-be947cd9d74a" target="_blank"><img src="./assets/object-storage.svg" width="18%" alt="Object Storage Knowledge Badge" /></a>
   <a href="https://www.credly.com/earner/earned/badge/47365ee2-35f8-4de7-ad94-2148fb6b9508" target="_blank"><img src="./assets/Block-Storage.svg" width="18%" alt="Block Storage Knowledge Badge" /></a>
